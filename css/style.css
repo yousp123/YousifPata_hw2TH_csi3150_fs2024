@@ -12,7 +12,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #add8e6;  /* Change to light blue */
+    background-color: #add8e6;
     color: black;
 }
 
@@ -60,7 +60,7 @@ header .cta:hover {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #add8e6;  /* Change to light blue */
+    background-color: #add8e6;
     color: black;
 }
 
