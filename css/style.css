@@ -12,8 +12,8 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #333;
-    color: white;
+    background-color: #add8e6;  /* Change to light blue */
+    color: black;
 }
 
 header img {
@@ -32,7 +32,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: white;
+    color: black;
     text-decoration: none;
     padding: 5px 10px;
 }
@@ -60,8 +60,8 @@ header .cta:hover {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #333;
-    color: white;
+    background-color: #add8e6;  /* Change to light blue */
+    color: black;
 }
 
 hr {
